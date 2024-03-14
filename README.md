@@ -14,5 +14,5 @@ CLIENTCONFIGDIR
 SEARCH_BASE
 SEARCH_FILTER
 
-2. Поместить в crontab
+2. Поместить в crontab 
 
