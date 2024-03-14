@@ -1,11 +1,11 @@
-### Скрипт интеграции wireguard и Active Directory
+## Скрипт интеграции wireguard и Active Directory
 
-Установка:
-1. Заполнить переменные
+# Установка:
+1. Заполнить переменные в wireguard.py:
 WORKDIR
 NETWORK
 LDAPSERVER
-FIRSTRUN <-
+FIRSTRUN
 ADUSER
 ADPASSWORD
 WGSERVERPUBKEY
