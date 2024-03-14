@@ -1,6 +1,7 @@
 ## Скрипт интеграции wireguard и Active Directory
 
-# Установка:
+Установка:
+
 1. Заполнить переменные в wireguard.py:
 WORKDIR
 NETWORK
