@@ -2,7 +2,7 @@
 
 Установка:
 
-Заполнить переменные в wireguard.py:
+Заполнить переменные в wireguard.py:  
 WORKDIR  
 NETWORK  
 LDAPSERVER  
