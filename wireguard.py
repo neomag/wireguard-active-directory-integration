@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#старый код, так лучше уже не делать. но работает! 2018 г.
 from ldap3 import Server, Connection, ALL, NTLM
 from collections import defaultdict
 import ipaddress
